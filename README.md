@@ -24,6 +24,10 @@ This portfolio showcases my professional profile, background, interests, and sel
 | GitHub     | Version Control |
 | GitHub Pages | Deployment    |
 
+## 🚀 Deployment
+
+👉 Currently deployed at: https://your-NilaKari.github.io/Leonila_Portfolio-/ https://karimil.netlify.app
+
 
 ## 📁 Folder Structure
 
